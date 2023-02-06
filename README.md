@@ -1,2 +1,8 @@
-# DuoChat
-A chat app for duolingo learners. Kind of like a dumbed down slack.
+# ![duochat logo](DuoChat-Logo.png)
+----
+### A chat app for duolingo learners. Kind of like a dumbed down slack.
+----
+
+# How does duochat work?
+
+Duochat is a Socket.IO and React chat app with a bit of flair themed around duolingo.
